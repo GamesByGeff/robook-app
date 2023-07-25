@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/GamesByGeff/robook-app.git/static/css/main.4df21dc3.css",
-    "main.js": "/GamesByGeff/robook-app.git/static/js/main.cad77406.js",
-    "static/js/787.58d3d3c9.chunk.js": "/GamesByGeff/robook-app.git/static/js/787.58d3d3c9.chunk.js",
-    "static/media/SEGA.woff": "/GamesByGeff/robook-app.git/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/GamesByGeff/robook-app.git/index.html",
-    "main.4df21dc3.css.map": "/GamesByGeff/robook-app.git/static/css/main.4df21dc3.css.map",
-    "main.cad77406.js.map": "/GamesByGeff/robook-app.git/static/js/main.cad77406.js.map",
-    "787.58d3d3c9.chunk.js.map": "/GamesByGeff/robook-app.git/static/js/787.58d3d3c9.chunk.js.map"
+    "main.css": "/robook-app/static/css/main.c8c0a9d4.css",
+    "main.js": "/robook-app/static/js/main.ad0398a3.js",
+    "static/js/787.58d3d3c9.chunk.js": "/robook-app/static/js/787.58d3d3c9.chunk.js",
+    "static/media/SEGA.woff": "/robook-app/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robook-app/index.html",
+    "main.c8c0a9d4.css.map": "/robook-app/static/css/main.c8c0a9d4.css.map",
+    "main.ad0398a3.js.map": "/robook-app/static/js/main.ad0398a3.js.map",
+    "787.58d3d3c9.chunk.js.map": "/robook-app/static/js/787.58d3d3c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4df21dc3.css",
-    "static/js/main.cad77406.js"
+    "static/css/main.c8c0a9d4.css",
+    "static/js/main.ad0398a3.js"
   ]
 }
